@@ -1,6 +1,8 @@
 ## Assignment 1
-In this assignment:
-1)I reallocated the existing memory without using realloc
+In this assignment:  
+
+1)I reallocated the existing memory without using realloc  
+
 2)Created a function that shrinks down the memory to half (if needed) in order to save the unused memory
 
 ## Asssignment 2
